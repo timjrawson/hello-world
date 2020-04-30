@@ -1,2 +1,3 @@
 # hello-world
 Just learning ...
+Wondering how I can use GitHub to start learning Javascript.
